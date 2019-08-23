@@ -1,6 +1,6 @@
 ---
 title: "Penn Clubs"
-summary: "A Penn Labs product to democratize "
+summary: "A Penn Labs product to democratize access to clubs"
 tags: ["Penn Labs", "django", "react", "python", "javascript"]
 date: 2019-08-22T14:42:41-04:00
 
