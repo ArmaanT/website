@@ -23,3 +23,10 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
+
+
+# Update public submodule
+cd ..
+git add public
+git commit -m "Update public submodule"
+git push origin master
